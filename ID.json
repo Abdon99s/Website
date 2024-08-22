@@ -1,13 +1,15 @@
 [
-    {
+   {
         "drug": "Moxifloxacin",
+        "Pronunciation": "moxs i FLOKS a sin",
         "Abv": "MFN",
-        "brand": ["Avelox™ (oral, IV)", "Vigamox™ (eye drop)"],
-        "spectrum": ["Anaerobes", "Atypicals"],
-        "class": "Fourth Generation Quinolones",
+        "brand": ["Avelox™ (oral, IV)","Vigamox™ (eye drop) "],
+        "class": "Quinolone",
+        "Generation": "Fourth Generation Quinolones",
+        "spectrum": ["MSSA", "Strep", "S. pneumo","PEK", "PIDDLY", "SACE", "Anaerobes", "Atypicals"],
         "forms": "powder, tablets, solution",
         "gen": "",
-        "indication": "often used for pulmonary, SSSI, and intraabdominal infections",
+        "indication": "often used for pulmonary, SSSI, and intraabdominal infections ",
         "star": "only FQ that covers anaerobes",
         "to_know": "effective against M. tuberculosis (second line agent)",
         "Other": "primarily eliminated in feces (hepatic) \\n\\nlow urinary excretion-only FQ not used to treat UTIs \\n\\nno dosage adjustment is necessary in patients with renal impairment",
@@ -18,6 +20,28 @@
         "Cell_Strugcture": "",
         "toxicities": "",
         "Chem_URl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Moxifloxacin.svg"
+    }, {
+        "drug": "Sulfamethoxazole and Trimethoprim",
+        "Pronunciation": "sul fa meth OKS a zole & trye METH oh prim",
+        "Abv": "SMX-TMP ",
+        "brand": "Bactrim™ and Septra™",
+        "class": "Sulfonamides",
+        "Generation": "",
+        "spectrum": ["MSSA", "MRSA", "Ca", "PEK",],
+        "forms": "powder for IV, tablet (co-formulated with TMP) ",
+        "indication": "resistance in streptococcus (e.g., do not use for strep throat), but effective against MSSA and many CA-MRSA strains \\n\\neffective for many Enterobacteriaceae (PEK bugs) ",
+        "star": "resistance development to TMP-SMX is limited by the 2 drugs acting 
+        synergistically blocking sequential steps in folic acid synthesis ",
+        "MOA": "",
+        "to_know": "sulfonamide resistance is the result of mutation or increased expression of 
+        dihydropteroate synthetase\\n\\ninhibiting 2 different steps reduces the likelihood that resistance will develop; 
+        however, as with most antibacterial agents, resistance is still a problem",
+        "Other": "",
+        "side_effects": "",
+        "cellular_target": "dihydropteroate synthase",
+        "Cell_Strugcture": "folic acid synthesis ",
+        "toxicities": "sulfa-drug hypersensitivity (Steven-Johnsons), crystalluria, anemia  ",
+        "Chem_URl":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Trimethoprim_and_sulfamethoxazole.svg/300px-Trimethoprim_and_sulfamethoxazole.svg.png"
     },
     {
         "drug": "Amoxicillin",
