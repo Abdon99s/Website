@@ -1,0 +1,19 @@
+ {
+        "drug": "Moxifloxacin",
+        "Abv": "MFN",
+        "brand": ["Avelox™ (oral, IV)","Vigamox™ (eye drop) "],
+        "class": "Fourth Generation Quinolones",
+        "forms": "powder, tablets, solution",
+        "gen": "",
+        "indication": "often used for pulmonary, SSSI, and intraabdominal infections ",
+        "star": "only FQ that covers anaerobes",
+        "to_know": "effective against M. tuberculosis (second line agent)",
+        "Other": "primarily eliminated in feces (hepatic) \\n\\nlow urinary excretion-only FQ not used to treat UTIs \\n\\nno dosage adjustment is necessary in patients with renal impairment",
+        "MOA": "",
+        "side_effects": "",
+        "antibiotic_class": "",
+        "cellular_target": "",
+        "Cell_Strugcture": "",
+        "toxicities": "",
+        "Chem_URl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Moxifloxacin.svg"
+    }
