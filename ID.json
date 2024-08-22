@@ -27,15 +27,12 @@
         "brand": "Bactrim™ and Septra™",
         "class": "Sulfonamides",
         "Generation": "",
-        "spectrum": ["MSSA", "MRSA", "Ca", "PEK",],
+        "spectrum": ["MSSA", "MRSA", "Ca", "PEK"],
         "forms": "powder for IV, tablet (co-formulated with TMP) ",
         "indication": "resistance in streptococcus (e.g., do not use for strep throat), but effective against MSSA and many CA-MRSA strains \\n\\neffective for many Enterobacteriaceae (PEK bugs) ",
-        "star": "resistance development to TMP-SMX is limited by the 2 drugs acting 
-        synergistically blocking sequential steps in folic acid synthesis ",
+        "star": "resistance development to TMP-SMX is limited by the 2 drugs acting synergistically blocking sequential steps in folic acid synthesis ",
         "MOA": "",
-        "to_know": "sulfonamide resistance is the result of mutation or increased expression of 
-        dihydropteroate synthetase\\n\\ninhibiting 2 different steps reduces the likelihood that resistance will develop; 
-        however, as with most antibacterial agents, resistance is still a problem",
+        "to_know": "sulfonamide resistance is the result of mutation or increased expression of dihydropteroate synthetase\\n\\ninhibiting 2 different steps reduces the likelihood that resistance will develop; however, as with most antibacterial agents, resistance is still a problem",
         "Other": "",
         "side_effects": "",
         "cellular_target": "dihydropteroate synthase",
