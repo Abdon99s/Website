@@ -3,6 +3,7 @@
         "drug": "Moxifloxacin",
         "Abv": "MFN",
         "brand": ["Avelox™ (oral, IV)", "Vigamox™ (eye drop)"],
+        "spectrum": ["Anaerobes", "Atypicals"]
         "class": "Fourth Generation Quinolones",
         "forms": "powder, tablets, solution",
         "gen": "",
@@ -17,5 +18,26 @@
         "Cell_Strugcture": "",
         "toxicities": "",
         "Chem_URl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Moxifloxacin.svg"
+    },
+    {
+        "drug": "Amoxicillin",
+        "Abv": "AMX",
+        "brand": ["Amoxil"],
+        "spectrum": ["MSSA", "Strep", "S. pneumo"]
+        "class": "Penicillins",
+        "forms": "capsules, tablets, powder for suspension",
+        "gen": "",
+        "indication": "used for bacterial infections such as pneumonia, bronchitis, and infections of the ear, nose, throat, skin, and urinary tract",
+        "star": "broad-spectrum antibiotic",
+        "to_know": "effective against a wide range of bacteria",
+        "Other": "excreted primarily in urine",
+        "MOA": "",
+        "side_effects": "",
+        "antibiotic_class": "",
+        "cellular_target": "",
+        "Cell_Strugcture": "",
+        "toxicities": "",
+        "Chem_URl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Amoxicillin.svg"
+        
     }
 ]
