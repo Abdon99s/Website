@@ -3,7 +3,7 @@
         "drug": "Moxifloxacin",
         "Abv": "MFN",
         "brand": ["Avelox™ (oral, IV)", "Vigamox™ (eye drop)"],
-        "spectrum": ["Anaerobes", "Atypicals"]
+        "spectrum": ["Anaerobes", "Atypicals"],
         "class": "Fourth Generation Quinolones",
         "forms": "powder, tablets, solution",
         "gen": "",
@@ -23,7 +23,7 @@
         "drug": "Amoxicillin",
         "Abv": "AMX",
         "brand": ["Amoxil"],
-        "spectrum": ["MSSA", "Strep", "S. pneumo"]
+        "spectrum": ["MSSA", "Strep", "S. pneumo"],
         "class": "Penicillins",
         "forms": "capsules, tablets, powder for suspension",
         "gen": "",
