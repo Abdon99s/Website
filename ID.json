@@ -1,4 +1,5 @@
- {
+[
+  {
         "drug": "Moxifloxacin",
         "Abv": "MFN",
         "brand": ["Avelox™ (oral, IV)","Vigamox™ (eye drop) "],
@@ -16,4 +17,5 @@
         "Cell_Strugcture": "",
         "toxicities": "",
         "Chem_URl":"https://upload.wikimedia.org/wikipedia/commons/e/e9/Moxifloxacin.svg"
-    }
+    },
+]
