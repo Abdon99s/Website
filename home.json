@@ -2,7 +2,7 @@
   "websites": [
     {
       "name": "MyMU",
-      "link": "https://adfs.marshall.edu/adfs/ls?wa=wsignin1.0&wtrealm=urn%3amymu.marshall.edu%3a443&wctx=https%3a%2f%2fmymu.marshall.edu%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3d%252F&wreply=https%3a%2f%2fmymu.marshall.edu%2f_trust%2fdefault.aspx"
+      "link": "https://mymu.marshall.edu/Pages/default.aspx"
     },
     {
       "name": "Blackboard",
@@ -31,6 +31,14 @@
     {
       "name": "PubMed",
       "link": "https://livemarshall.sharepoint.com/sites/musop/elvis"
+    },
+       {
+      "name": "Fmhy",
+      "link": "https://fmhy.net/"
+    },
+    {
+      "name": "Potato's Website",
+      "link": "https://sites.google.com/view/potatotext/love-you"
     }
   ]
 }
