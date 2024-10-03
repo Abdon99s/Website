@@ -6,7 +6,7 @@
     },
     {
       "name": "Blackboard",
-      "link": "https://marshall-bb.blackboard.com/ultra/"
+      "link": "https://marshall-bb.blackboard.com/auth-saml/saml/login?apId=_2809_1"
     },
     {
       "name": "ACCESS PHARMACY",
@@ -14,7 +14,7 @@
     },
     {
       "name": "co-pilot",
-      "link": "https://copilot.microsoft.com"
+      "link": "https://m365.cloud.microsoft/chat?fromcode=cmcv2&redirectid=3A6C46FB59D748C5A46EE928792F8FF7&auth=2"
     },
     {
       "name": "CORE/ELMS",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Soccer",
-      "link": "https://streamed.su/schedule"
+      "link": "https://streamed.su"
     }
   ]
 }
