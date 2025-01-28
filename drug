@@ -1,0 +1,380 @@
+[
+    {
+        "Drug": "amlodipine",
+        "Brand": "Norvasc",
+        "Class": "Calcium channel blocker",
+        "Indication": "Hypertension, chronic stable angina, vasopastic angina "
+    },
+    {
+        "Drug": "Amlodipine/benazepril",
+        "Brand": "Lotrel",
+        "Class": "Calcium Channel Blocker/ACE Inhibitor ",
+        "Indication": "Hypertension"
+    },
+    {
+        "Drug": "atenolol",
+        "Brand": "Tenormin",
+        "Class": "Cardioselective beta blocker ",
+        "Indication": "Chronic angina pectoris, HTN, AMI "
+    },
+    {
+        "Drug": "atenolol/chlorthalidone",
+        "Brand": "Tenoretic",
+        "Class": "Cardioselective beta blocker/Thiazide diuretic ",
+        "Indication": "Hypertension"
+    },
+    {
+        "Drug": "benazepril",
+        "Brand": "Lotensin ",
+        "Class": "ACE Inhibitor ",
+        "Indication": "Hypertension "
+    },
+    {
+        "Drug": "Bisoprolol/hydrochlorothiazide",
+        "Brand": "Ziac",
+        "Class": "Cardioselective beta blocker/Thiazide diuretic ",
+        "Indication": "Hypertension"
+    },
+    {
+        "Drug": "carvedilol",
+        "Brand": "Coreg ",
+        "Class": "Alpha/Beta adrenergic blocker ",
+        "Indication": "HFrEF, HTN "
+    },
+    {
+        "Drug": "chlorthalidone",
+        "Brand": "Hygroton, Thalitone ",
+        "Class": "Thiazide diuretic ",
+        "Indication": "HTN, Edema "
+    },
+    {
+        "Drug": "clonidine",
+        "Brand": "Catapres, Kapvay",
+        "Class": "Alpha-2 adrenergic agonist ",
+        "Indication": "ADHD, HTN "
+    },
+    {
+        "Drug": "diltiazem",
+        "Brand": "Cardizem, Cartia XT, Dilacor XR, Dilt-XR, Taztia XT, Tiazac",
+        "Class": "Calcium channel blocker",
+        "Indication": "Hypertension, chronic stable angina, atrial arrhythmia and paroxysmal supraventricular tachycardia, Atrial fibrillation, atrial flutter"
+    },
+    {
+        "Drug": "Dopamine",
+        "Brand": "Intropin",
+        "Class": "Alpha/Beta Agonist ",
+        "Indication": "Shock/hemodynamic support"
+    },
+    {
+        "Drug": "enalapril",
+        "Brand": "Vasotec",
+        "Class": "ACE Inhibitor ",
+        "Indication": "Heart failure, HTN, Nondiabetic kidney disease "
+    },
+    {
+        "Drug": "esmolol",
+        "Brand": "Brevibloc",
+        "Class": "Cardioselective beta blocker",
+        "Indication": "Atrial fibrillation/flutter, hypertensive emergency, supraventricular tachycardia, thyroid storm, ventricular tachycardia "
+    },
+    {
+        "Drug": "hydralazine",
+        "Brand": "Apresoline",
+        "Class": "Peripheral Vasodilator",
+        "Indication": "HTN"
+    },
+    {
+        "Drug": "hydrochlorothiazide",
+        "Brand": "Microzide",
+        "Class": "Thiazide diuretic ",
+        "Indication": "Edema, HTN"
+    },
+    {
+        "Drug": "Irbesartan",
+        "Brand": "Avapro",
+        "Class": "Angiotensin II Receptor Antagonist ",
+        "Indication": "Diabetic nephropathy in patients with T2DM and HTN, HTN "
+    },
+    {
+        "Drug": "Labetalol",
+        "Brand": "Normodyne",
+        "Class": "Alpha/Beta adrenergic blocker ",
+        "Indication": "HTN"
+    },
+    {
+        "Drug": "lisinopril",
+        "Brand": "Prinivil, Zestril",
+        "Class": "ACE Inhibitor ",
+        "Indication": "ST-segment elevation MI, HFrEF, HTN"
+    },
+    {
+        "Drug": "Lisinopril/hydrochlorothiazide",
+        "Brand": "Zestoretic",
+        "Class": "ACE Inhibitor/Thiazide Diuretic",
+        "Indication": "Hypertension"
+    },
+    {
+        "Drug": "losartan",
+        "Brand": "Cozaar",
+        "Class": "Angiotensin II Receptor Antagonist ",
+        "Indication": "HTN, Reduce risk of cerebrovascular accident in hypertensive patients with left ventricular hypertrophy, diabetic nephropathy "
+    },
+    {
+        "Drug": "Losartan/hydrochlorothiazide",
+        "Brand": "Hyzaar",
+        "Class": "Angiotensin II Receptor Antagonist/Thiazide Diuretic",
+        "Indication": "Hypertension, Hypertension with left ventricular hypertrophy "
+    },
+    {
+        "Drug": "metoprolol (how do we handle different salt forms)",
+        "Brand": "Lopressor, Toprol XL",
+        "Class": "Cardioselective beta blocker ",
+        "Indication": "Angina, HFrEF, HTN, AMI "
+    },
+    {
+        "Drug": "nadolol",
+        "Brand": "Corgard",
+        "Class": "Nonselective beta blocker",
+        "Indication": "Angina, atrial fibrillation/flutter, hypertension, migraine prevention, supraventricular tachycardia, ventricular premature beats "
+    },
+    {
+        "Drug": "nebivolol",
+        "Brand": "Bystolic",
+        "Class": "Cardioselective beta blocker ",
+        "Indication": "HTN"
+    },
+    {
+        "Drug": "nicardipine",
+        "Brand": "Cardene",
+        "Class": "Dihydropyridine Calcium Channel Blocker",
+        "Indication": "Angina, acute ischemic stroke, hypertension, hypertensive emergency, BP management in an intracerebral or subarachnoid hemorrhage "
+    },
+    {
+        "Drug": "nifedipine",
+        "Brand": "Adalat CC, Procardia XL",
+        "Class": "Dihydropyridine Calcium Channel Blocker",
+        "Indication": "HTN, Stable chronic angina, Variant angina "
+    },
+    {
+        "Drug": "nitroprusside",
+        "Brand": "Nipride, Nitropress",
+        "Class": "Vasodilator",
+        "Indication": "Hypertensive emergency, BP management in acute ischemic stroke, acute decompensated heart failure, acute aortic syndromes/dissection"
+    },
+    {
+        "Drug": "norepinephrine",
+        "Brand": "Levophed",
+        "Class": "Alpha/Beta Agonist ",
+        "Indication": "Hypotension/shock "
+    },
+    {
+        "Drug": "Olemesartan",
+        "Brand": "Benicar",
+        "Class": "Angiotensin II Receptor Antagonist ",
+        "Indication": "HTN"
+    },
+    {
+        "Drug": "Olemesartan/hydrochlorothiazide",
+        "Brand": "Benicar HCT",
+        "Class": "Angiotensin II Receptor Antagonist/Thiazide Diuretic",
+        "Indication": "HTN"
+    },
+    {
+        "Drug": "propranolol",
+        "Brand": "Inderal, Inderal LA, Inderal XL",
+        "Class": "Nonselective beta blocker",
+        "Indication": "Chronic angina pectoris, Cardiac dysrhymia, HTN, Migraine "
+    },
+    {
+        "Drug": "quinapril",
+        "Brand": "Accupril",
+        "Class": "ACE Inhibitor ",
+        "Indication": "Heart failure, HTN"
+    },
+    {
+        "Drug": "ramipril",
+        "Brand": "Altace",
+        "Class": "ACE Inhibitor ",
+        "Indication": "Heart failure post-MI, HTN, Reduce risk of MI, stroke, and death from cardiovascular causes "
+    },
+    {
+        "Drug": "triamterene/hydrochlorothiazide",
+        "Brand": "Dyazide, Maxzide",
+        "Class": "Potassium-Sparing Diuretic/Thiazide Diuretic",
+        "Indication": "Hypertension, edema, chronic management of meniere disease "
+    },
+    {
+        "Drug": "valsartan",
+        "Brand": "Diovan",
+        "Class": "Angiotensin II Receptor Antagonist ",
+        "Indication": "Heart failure, HTN, Acute coronary syndrome "
+    },
+    {
+        "Drug": "Valsartan/amlodipine",
+        "Brand": "Exforge",
+        "Class": "Angiotensin II Receptor Antagonist / Calcium Channel Blocker",
+        "Indication": "Hypertension"
+    },
+    {
+        "Drug": "Valsartan/hydrochlorothiazide",
+        "Brand": "Diovan HCT",
+        "Class": "Angiotensin II Receptor Antagonist/Thiazide Diuretic",
+        "Indication": "Hypertension"
+    },
+    {
+        "Drug": "Vasopressin ",
+        "Brand": "Vasostrict",
+        "Class": "Antidiuretic Hormone Analog",
+        "Indication": "Septic shock, diabetes insipdus, deceased organ donor management "
+    },
+    {
+        "Drug": "verapamil",
+        "Brand": "Calan SR",
+        "Class": "Nondihydropyridine Calcium channel blocker",
+        "Indication": "Angina, Atrial arrhythmia or paroxysmal supraventricular tachycardia prophylaxis, HTN"
+    },
+    {
+        "Drug": "Bumetanide ",
+        "Brand": "Bumex",
+        "Class": "Loop diuretic ",
+        "Indication": "Edema, volume overload"
+    },
+    {
+        "Drug": "furosemide",
+        "Brand": "Lasix",
+        "Class": "Loop diuretic ",
+        "Indication": "Edema of volume overload related to heart failure or renal failure "
+    },
+    {
+        "Drug": "Hydralazine/isosorbide dinitrate",
+        "Brand": "BiDil",
+        "Class": "Vasodilator",
+        "Indication": "HFrEF"
+    },
+    {
+        "Drug": "sacubitril/valsartan",
+        "Brand": "Entresto",
+        "Class": "Neprilysin inhibitor, Angiotensin II Receptor Antagonist ",
+        "Indication": "HFrEF"
+    },
+    {
+        "Drug": "spironolactone",
+        "Brand": "Aldactone, CaroSpir",
+        "Class": "Potassium-Sparing diuretic, Selective aldosterone blocker ",
+        "Indication": "Heart failure, Primary aldoseronism, HTN, Ascites, cirrhosis of liver "
+    },
+    {
+        "Drug": "torsemide",
+        "Brand": "Demadex, Soaanz",
+        "Class": "Loop diuretic ",
+        "Indication": "Edema related to heart failure, renal failure, or hepatic cirrhosis "
+    },
+    {
+        "Drug": "isosorbide mononitrate",
+        "Brand": "Imdur",
+        "Class": "Long-acting nitrate, antianginal ",
+        "Indication": "Angina "
+    },
+    {
+        "Drug": "nitroglycerin",
+        "Brand": "Minitran, Nitro-Dur, Nitrostat, Nitro-Bid ",
+        "Class": "Nitrate, Antianginal, Vasodilator ",
+        "Indication": "Angina, Anal fissure, Acute decompensated heart failure "
+    },
+    {
+        "Drug": "atorvastatin",
+        "Brand": "Lipitor",
+        "Class": "HMG-CoA Reductase inhibitor ",
+        "Indication": "Primary and secondary prevention of atherosclerotic cardiovascular disease, secondary prevention of cardiovascular events in patients with or at high risk for CAD, familial hypercholesterolemia "
+    },
+    {
+        "Drug": "Colesevelam",
+        "Brand": "Welchol",
+        "Class": "Hypolipidemic, Bile acid sequestrant",
+        "Indication": "Primary and familial hyperlipidemia, T2DM"
+    },
+    {
+        "Drug": "ezetimibe",
+        "Brand": "Zetia",
+        "Class": "Antihyperlipidemic, Cholesterol Absorption Inhibitor",
+        "Indication": "Familial hypercholesterolemia-homozygous, Mixed hyperlipidemia, Primary hypercholesterolemia "
+    },
+    {
+        "Drug": "fenofibrate",
+        "Brand": "Antara, Fenoglide, Lipofen, Lofibra, Tricor, Trilipix",
+        "Class": "Antihyperlipidemic",
+        "Indication": "Hypertriglyceridemia, Frederickson types 4 and 5 hyperlipidemia "
+    },
+    {
+        "Drug": "flaxseed oil ",
+        "Brand": "Linum usitatissimum, Omega 3 ",
+        "Class": "Antihyperlipidemic",
+        "Indication": "Lipid lowering "
+    },
+    {
+        "Drug": "gemfibrozil",
+        "Brand": "Lopid",
+        "Class": "Antihyperlipidemic, Fibric Acid",
+        "Indication": "Coronary arteriosclerosis, Prophylaxis-familial combined hyperlipidemia, Familial type V hyperlipoproteinemia-Fredrickson type IV hyperlipoproteinemia "
+    },
+    {
+        "Drug": "Icosapent ethyl",
+        "Brand": "Vascepa",
+        "Class": "Omega-3 Fatty Acid",
+        "Indication": "Cardiovascular risk reduction with hypertriglyceridemia, hypertriglyceridemia"
+    },
+    {
+        "Drug": "Lovastatin",
+        "Brand": "Altoprev",
+        "Class": "HMG-CoA Reductase inhibitor ",
+        "Indication": "Coronary arteriosclerosis, hypercholesterolemia, Familial hypercholesterolemia "
+    },
+    {
+        "Drug": "niacin",
+        "Brand": "Niaspan, Slo-Niacin, Niacin-50",
+        "Class": "Antihyperlipidemic, Water-Soluble Vitamin ",
+        "Indication": "Dyslipidemia, Vitamin supplement "
+    },
+    {
+        "Drug": "omega-3-acid ethyl esters",
+        "Brand": "Lovaza",
+        "Class": "Antihyperlipidemic, Omega-3 Fatty Acids",
+        "Indication": "Hypertriglyceridemia, Dietary supplement "
+    },
+    {
+        "Drug": "pravastatin",
+        "Brand": "Pravachol",
+        "Class": "HMG-CoA Reductase inhibitor ",
+        "Indication": "Cerebrovascular accident (prevention), coronary arteriosclerosis, Familial hypercholesterolemia, Hyperlipidemia "
+    },
+    {
+        "Drug": "rosuvastatin",
+        "Brand": "Crestor, Ezallor",
+        "Class": "HMG-CoA Reductase inhibitor ",
+        "Indication": "Hyperlipidemia, prevention of cardiovascular disease, Familial hypercholesterolemia"
+    },
+    {
+        "Drug": "simvastatin",
+        "Brand": "Zocor ",
+        "Class": "HMG-CoA Reductase inhibitor ",
+        "Indication": "Hyperlipidemia, Primary and secondary preventions of atherosclerotic cardiovascular disease, Secondary prevention of cardiovascular events, Familial hypercholesterolemia (homozygous) "
+    },
+    {
+        "Drug": "amiodarone",
+        "Brand": "Cordarone, Pacerone",
+        "Class": "Antiarrhythmic Class III",
+        "Indication": "Secondary prophylaxis of ventricular arrhythmias, Pulseless ventricular tachycardia or ventricular fibrillation "
+    },
+    {
+        "Drug": "digoxin",
+        "Brand": "Digitek, Digox, Lanoxin ",
+        "Class": "Digitalis Glycoside ",
+        "Indication": "Atrial fibrillation, Heart failure, Supraventricular tachyarrhythmia "
+    },
+    {
+        "Drug": "digoxin immune fab",
+        "Brand": "Digifab",
+        "Class": "Antidote ",
+        "Indication": "Digoxin toxicity"
+    }
+]
