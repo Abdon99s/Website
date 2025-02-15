@@ -16,6 +16,10 @@
       "name": "co-pilot",
       "link": "https://m365.cloud.microsoft/chat?fromcode=cmcv2&redirectid=3A6C46FB59D748C5A46EE928792F8FF7&auth=2"
     },
+     {
+      "name": "DeepSeek",
+      "link": "https://chat.deepseek.com/"
+    }
     {
       "name": "CORE/ELMS",
       "link": "https://www.corehighered.com/login-elms"
@@ -59,6 +63,14 @@
     {
       "name": "Anime",
       "link": "https://hianime.to/home"
+    },
+    {
+      "name": "Live TV",
+      "link": "https://tv.garden/us"
+    },
+    {
+      "name": "Gojo",
+      "link": "https://gojo.wtf/"
     }
   ]
 }
